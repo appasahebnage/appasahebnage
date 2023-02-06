@@ -1,3 +1,6 @@
+<p align="right">
+   <img src="https://komarev.com/ghpvc/?username=appasahebnage&label=Profile%20views&color=ec8244" alt="appasahebnage" />
+</p>
 
 <p align="center" style="border-radius:15px">
    <a>
@@ -7,16 +10,16 @@
 <h1 align="left"></h1>
 <p align="center">
    <a>
-   <img  src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;Third%20Party%20API%20Integrator;Started%20Open%20Source%20Contribution;&font=Fira%20Code&center=true&width=1000&height=50&color=ec8244&vCenter=true&pause=1&size=40" />
+   <img  src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;Third%20Party%20API%20Integrator;Started%20Open%20Source%20Contribution;&font=Fira%20Code&center=true&width=1000&height=50&color=ec8244&vCenter=true&pause=500&size=50" />
    </a>
 </p>
 <h1 align="left"></h1>
 
 <h1 align="left">About Me</h1>
   <p>
-    <h3>
+    <h4>
       I am a distinguished software engineer with over 3 years of experience and I am currently employed at <a href="https://demandhelm.com" target="blank">DemandHelm</a>. I am interested in contributing to open source projects and believe in thoughtful consideration before coding.
-    </h3>
+    </h4>
   </p>
 <h1 align="left"></h1>
 
@@ -39,39 +42,37 @@
    <a href="" target="blank">
    <img align="center" src="images/icons/Devops/aws.svg" alt="AWS" height="40" width="70" />
    </a>
-   AWS
+   AWS &nbsp
    <a href="" target="blank">
    <img align="center" src="images/icons/Database/mysql.svg" alt="MySQL" height="40" width="70" />
    </a>
    MySQL
+   <br />
    <a href="" target="blank">
    <img align="center" src="images/icons/BackendDevelopment/nginx.svg" alt="NGINX" height="40" width="70" />
    </a>
    Nginx
+   &nbsp&nbsp
    <a href="" target="blank">
    <img align="center" src="images/icons/BackendDevelopment/express.svg" alt="Express" height="40" width="70" />
    </a>
    Express
+   &nbsp&nbsp&nbsp
    <a href="" target="blank">
    <img align="center" src="images/icons/Other/git.svg" alt="Git" height="40" width="70" />
    </a>
    Git
+   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
    <a href="" target="blank">
    <img align="center" src="images/icons/Other/linux.svg" alt="Linux" height="40" width="70" />
    </a>
    Linux
+   &nbsp&nbsp
    <a href="" target="blank">
    <img align="center" src="images/icons/DataVisualization/grafana.svg" alt="Grafana" height="40" width="70" />
    </a>
    Grafana
-   <a href="" target="blank">
-   <img align="center" src="images/icons/mysqlworkbench.svg" alt="mysqlworkbench" height="40" width="60" />
-   </a>
-   MySQL Workbench
-   <a href="" target="blank">
-   <img align="center" src="images/icons/Software/postman.svg" alt="postman" height="40" width="70" />
-   </a>
-   Postman
+   <br />
 </h3>
 </p>
 <h1 align="left"></h1>
