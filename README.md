@@ -81,7 +81,7 @@
    <a href="https://twitter.com/appasaheb_nage" target="blank">
    <img align="center" src="images/icons/Social/twitter.svg" alt="appasahebnage" height="40" width="70" />
    </a>
-   <a href="https://www.linkedin.com/in/appasaheb-nage-b91403160/" target="blank"><img align="center" src="images/icons/Social/linked-in-alt.svg" alt="appasahebnage" height="40" width="90" />
+   <a href="https://www.linkedin.com/in/appasaheb-nage" target="blank"><img align="center" src="images/icons/Social/linked-in-alt.svg" alt="appasahebnage" height="40" width="90" />
    </a>
    <a href="https://instagram.com/appasahebnage" target="blank">
    <img align="center" src="images/icons/Social/instagram.svg" alt="appasahebnage" height="40" width="90" />
