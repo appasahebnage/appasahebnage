@@ -7,5 +7,5 @@
 </div>
 
 <h3>Portfolio & Projects</h3>
-<p>Explore my latest work and technical projects on my portfolio website. You'll find detailed case studies, code samples, and documentation of my development journey.</p>
+<p>Explore my latest work and technical projects on my portfolio website. You'll find detailed code samples, and documentation of my development journey.</p>
 <a href="https://appasahebnage.github.io" target="_blank">View My Portfolio →</a>
